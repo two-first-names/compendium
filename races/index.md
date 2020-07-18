@@ -1,78 +1,78 @@
 # Races
-[Aslaran]
+[Aslaran](aslaran)
 : Cat-like race, very fast.
 
-[Dracnari]
+[Dracnari](dracnari)
 : Dragon-like race, can breathe fire.
 
-[Dwarf]
+[Dwarf](dwarf)
 : Small, though stout, people.
 
-[Elfen]
+[Elfen](elfen)
 : Lithe people of the forests.
 
-[Faeling]
+[Faeling](faeling)
 : A cross between an elfen and a fae creature.
 
-[Fink]
+[Fink](fink)
 : Twisted matriarchal race born in aetherspace.
 
-[Furrikin]
+[Furrikin](furrikin)
 : Tiny, furry people who are very fast.
 
-Gnome
+[Gnome](gnome)
 : Short, technological race who travel aetherspace.
 
-Human
+[Human](human)
 : The most adaptive of the Lusternian races.
 
-Igasho
+[Igasho](igasho)
 : Largest of all races, extremely hairy.
 
-Illithoid
+[Illithoid](illithoid)
 : Serpent-like psionic vampires.
 
-Kephera
+[Kephera](kephera)
 : Very matriarchal and psionic insectoids.
 
-Krokani
+[Krokani](krokani)
 : One-eyed giants.
 
-Loboshigaru
+[Loboshigaru](loboshigaru)
 : Wolf-like race, strong regeneration.
 
-Lucidian
+[Lucidian](lucidian)
 : Crystal people of logic and intellect.
 
-Merian
+[Merian](merian)
 : A very noble, waterbreathing race.
 
-Mugwump
+[Mugwump](mugwump)
 : Amphibious race with keen intellect.
 
-Nagasith
+[Nagasith](nagasith)
 : Snake-like planes travellers.
 
-Orclach
+[Orclach](orchlach)
 : Warrior race, large and strong.
 
-Sileni
+[Sileni](sileni)
 : Goat-legged musicians.
 
-Tae'dae
+[Tae'dae](taedae)
 : Bear-like race, extremely charismatic and strong.
 
-Taurian
+[Taurian](taurian)
 : Bull-like race, dangerous in herds.
 
-Trill
+[Trill](trill)
 : Feathered, bird-like race that can fly.
 
-Viscanti
+[Viscanti](viscanti)
 : The Tainted race.
 
-Wildewood
+[Wildewood](wildewood)
 : A tree-like race with a deep bond.
 
-Wyrdenwood
+[Wyrdenwood](wyrdenwood)
 : A tree-like race with a deep bond.
