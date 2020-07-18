@@ -1,23 +1,23 @@
 # Races
-[Aslaran](races/aslaran)
+[Aslaran]
 : Cat-like race, very fast.
 
-[Dracnari](races/dracnari)
+[Dracnari]
 : Dragon-like race, can breathe fire.
 
-[Dwarf](races/dwarf)
+[Dwarf]
 : Small, though stout, people.
 
-[Elfen](races/elfen)
+[Elfen]
 : Lithe people of the forests.
 
-[Faeling](races/faeling)
+[Faeling]
 : A cross between an elfen and a fae creature.
 
-[Fink](races/fink)
+[Fink]
 : Twisted matriarchal race born in aetherspace.
 
-[Furrikin](races/furrikin)
+[Furrikin]
 : Tiny, furry people who are very fast.
 
 Gnome
